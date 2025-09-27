@@ -1,3 +1,3 @@
 # index(x) - index of first occurrence
-lst = ['a', 'b', 'c']
-print(lst.index('b'))  # Output: 1
+lst = ['a', 'a','b','b', 'c']
+print(lst.index('b'))  # Output: 2
